@@ -1,1 +1,1 @@
-# My-Small-Mart
+# My-Small-Mart is my first built project when i finish the HTML and CSS course i have study by my self , as i remember this project is built when i was year 1 , however this site is not reponsive for smalll device because i didn't know about responsive that day . and you can preview what my first project look like :D here : https://y-meng-sea.github.io/My-Small-Mart/
